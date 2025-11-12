@@ -232,8 +232,9 @@ table.custom-table tr td img {
 }
 
 .table-overlay {
-  min-height: 400px !important;
-  width: 100% !important;
+  /* min-height: 400px !important; */
+  /* width: 100% !important; */
+  margin-bottom: 40px !important;
 }
 
 .table-overlay2 {
@@ -248,6 +249,7 @@ table.custom-table tr td img {
 
 .table-content {
   background-color: #0C4A6E !important;
+  padding-top: 70px !important;
 }
 
 .custom-table2 th {
